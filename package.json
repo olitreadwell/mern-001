@@ -1,0 +1,16 @@
+{
+  "name": "mern-001",
+  "version": "0.0.1",
+  "description": "mongo (eventually) express react node template",
+  "main": "server.js",
+  "repository": "https://github.com/olitreadwell/mern-001",
+  "author": "Oli Treadwell (he/him) <oliver.treadwell@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
